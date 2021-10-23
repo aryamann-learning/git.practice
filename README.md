@@ -1,2 +1,2 @@
-Doing practice on merge conflicts
+Doing practice on merge conflicts repo-1
 
